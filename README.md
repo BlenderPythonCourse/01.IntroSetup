@@ -18,3 +18,4 @@ Videos in this section...
 + BP02 Welcome Video <= Coming soon
 + BP03 Blender Python Console
 + BP04 Replacing Bundled Python
++ 

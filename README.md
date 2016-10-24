@@ -15,7 +15,6 @@ www.GameDev.tv
 Videos in this section...
 
 + BP01 Promo Video v.1
-+ BP02 Welcome Video <= Coming soon
++ BP02 Getting Ready
 + BP03 Blender Python Console
 + BP04 Replacing Bundled Python
-+ 

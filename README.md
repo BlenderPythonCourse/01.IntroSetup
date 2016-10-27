@@ -20,3 +20,4 @@ Videos in this section...
 + BP04 PC - Replacing Bundled Python
 + BP05 Mac - Replacing Bundled Python
 + BP06 Pillow - Python Image Library
++ BP07 External Text Editor (Atom)

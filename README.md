@@ -17,4 +17,5 @@ Videos in this section...
 + BP01 Promo Video v.1
 + BP02 Getting Ready
 + BP03 Blender Python Console
-+ BP04 Replacing Bundled Python
++ BP04 PC - Replacing Bundled Python
++ BP05 Mac - Replacing Bundled Python

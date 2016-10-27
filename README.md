@@ -22,3 +22,4 @@ Videos in this section...
 + BP06 Pillow - Python Image Library
 + BP07 External Text Editor (Atom)
 + BP08 Running Python Code in Blender
++ BP09 How To Reload Python Code

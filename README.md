@@ -69,4 +69,4 @@
 + Dive STRAIGHT into next section while fresh.
 
 ---
-Find out more about our [Automate Blender with Python](https://www.udemy.com/blenderpython/?couponCode=GitHubDiscount).
+Find out more about our [Automate Blender with Python Course](https://www.udemy.com/blenderpython/?couponCode=GitHubDiscount).

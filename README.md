@@ -67,6 +67,3 @@
 + Incidental complexity, but really important 
 + Share your setup ideas with the community 
 + Dive STRAIGHT into next section while fresh.
-
----
-Find out more about our [Automate Blender with Python Course](https://www.udemy.com/blenderpython/?couponCode=GitHubDiscount).
